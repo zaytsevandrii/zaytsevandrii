@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Front end developer
 -------------------
 
-I love coding. I like working at a fast pace to meet tight deadlines and I am also an enthusiastic team player ready to contribute to company's success.
+I love coding. I like working at a fast pace to meet tight deadlines and I am also an enthusiastic team player ready to contribute to the company's success.
 
 * 🌍  I'm based in Manchester
 * 🖥️  See my portfolio at [https://zaytsevandrii.portfolio](http://zaytsevandrii.github.io/portfolio/)
