@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrii
 ==============================================================================================================================
 
-Front end developer
+I am a Front end developer
 -------------------
 
 I love coding. I like working at a fast pace to meet tight deadlines and I am also an enthusiastic team player ready to contribute to company's success.
